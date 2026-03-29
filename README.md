@@ -18,9 +18,7 @@ Ferroelectric materials exhibit spontaneous polarization that evolves into domai
 
 The system evolves to minimize total free energy, governed by the **Time-Dependent Ginzburg–Landau (TDGL) equation**:
 
-[
-\frac{\partial P_i}{\partial t} = -L \frac{\delta F}{\delta P_i}
-]
+σ_ij = c_ijkl (ε_kl - ε⁰_kl)
 
 where:
 
